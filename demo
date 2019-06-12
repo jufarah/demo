@@ -1,0 +1,4 @@
+From Ubuntu
+RUN apt-get update
+
+WORKDIR /home
